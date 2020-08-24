@@ -1,0 +1,19 @@
+$primary: green;
+$danger: purple;
+
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background-color: #f1f1f1;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 250px;
+  height: 200px;
+}
